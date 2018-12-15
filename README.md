@@ -1,0 +1,1 @@
+Using .NET Core 2.2 and Webpack 4.x, this repository reproduces an unknown error when running ```dotnet run``` and accessing [https://localhost:5001](https://localhost:5001). The main.js file is not delivered and results in a 400 Bad request server side.
